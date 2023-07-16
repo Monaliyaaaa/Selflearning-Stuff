@@ -1,0 +1,6 @@
+﻿  simpleIO.cpp
+  simpleMATH.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\86195\Desktop\C++\FirstProject\x64\Debug\FirstProject.exe 或上一个增量链接没有生成它；正在执行完全链接
+simpleMATH.obj : error LNK2005: main 已经在 simpleIO.obj 中定义
+C:\Users\86195\Desktop\C++\FirstProject\x64\Debug\FirstProject.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
