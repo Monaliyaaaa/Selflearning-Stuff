@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\86195\Desktop\C++\GreedySnake\GreedySnake\main.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\86195\Desktop\C++\GreedySnake\GreedySnake\main.cpp(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\86195\Desktop\C++\GreedySnake\GreedySnake\main.cpp(82,6): warning C4551: 缺少参数列表的函数调用
+C:\Users\86195\Desktop\C++\GreedySnake\GreedySnake\main.cpp(175,6): warning C4551: 缺少参数列表的函数调用
+  GreedySnake.vcxproj -> C:\Users\86195\Desktop\C++\GreedySnake\x64\Debug\GreedySnake.exe
